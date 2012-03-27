@@ -1,4 +1,4 @@
-![The Kambridge Kompanion to Kaminski](https://github.com/conorsg/misc/blob/master/kompanion.jpg)
+![The Kambridge Kompanion to Kaminski](https://github.com/conorsg/misc/blob/master/kompanion.jpg?raw=true)
 
  1. Kaminski and the world-historical character of investment banking
  2. "I know:" Epistemology as totality in Kaminski's personal correspondence
