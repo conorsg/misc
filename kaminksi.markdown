@@ -3,7 +3,7 @@ layout: post
 title: Kambridge Kompanion to Kaminski
 ---
 
-![The Kambridge Kompanion to Kaminski](/images/kompanion.jpg)
+![The Kambridge Kompanion to Kaminski](kompanion.jpg)
 
  1. Kaminski and the world-historical character of investment banking
  2. "I know:" Epistemology as totality in Kaminski's personal correspondence
