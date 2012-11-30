@@ -1,10 +1,3 @@
----
-layout: lists
-title: Lists
----
-
-_I am conflicted about the practice of curation, made ubiquitous and pushed to the extreme by the ease of the internet. However, I do believe in keeping records, and to this end I justify the following lists._
-
 ###Software I use###
 
  * [Notational Velocity](http://notational.net/) This is great, ultra-fast lightweight note taking software. I use it all the time, in class, in meetings, for planning. It's the best substitute for pen and paper.
